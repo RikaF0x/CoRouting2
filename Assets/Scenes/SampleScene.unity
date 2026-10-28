@@ -412,6 +412,7 @@ MonoBehaviour:
   defaultColor: {r: 0.6886792, g: 0.23713954, b: 0.23713954, a: 1}
   abilityColor: {r: 0.45175815, g: 0, b: 1, a: 1}
   jumpTime: 5
+  jumpForce: 50
   scaleTime: 5
   scaleNum: 3
 --- !u!114 &324636426
